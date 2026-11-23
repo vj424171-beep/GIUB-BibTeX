@@ -1,3 +1,8 @@
+"protocol=https`nhost=github.com`n`n" | git credential reject
+
+
+github.com
+gh auth logout
 "protocol=https`nhost=github.com`n`n" | git credential rejectGIUB-BibTeX
 ===========
 
