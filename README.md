@@ -1,4 +1,4 @@
-GIUB-BibTeX
+"protocol=https`nhost=github.com`n`n" | git credential rejectGIUB-BibTeX
 ===========
 
 BibTeX citation style for the Geographic Institute at the University of Bonn.
